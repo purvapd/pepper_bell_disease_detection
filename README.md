@@ -1,8 +1,6 @@
 # pepper_bell_disease_detection
 
-# pepper_bell_disease_detection--Deep-Learning
-
-## Problem statement 
+### Problem statement 
 
 **The project aims to develop a deep learning model to classify pepper_bell crops into two categories: 'Pepper__bell___Bacterial_spot', 'Pepper__bell___healthy' .
 Bacterial_spot iscommon diseases that cause significant crop yield and quality losses.**
